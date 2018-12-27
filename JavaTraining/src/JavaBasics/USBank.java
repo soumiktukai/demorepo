@@ -1,0 +1,17 @@
+package JavaBasics;
+
+public interface USBank {
+	
+	
+	public static int min_bal=1000;
+	public void credit();
+	
+	public void debit();
+	
+
+
+		
+	
+	
+
+}
